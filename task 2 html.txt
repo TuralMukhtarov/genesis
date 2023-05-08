@@ -2,7 +2,7 @@
 <html lang = "en">
 <head>
     <meta charset = "UTF-8 ">
-    <title> Quotes and Stock Prices </title>
+    <title> Genesis Projects </title>
     <link rel="stylesheet" href="məşq 1.css ">
 </head>
 <body>
